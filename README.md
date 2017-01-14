@@ -1,5 +1,5 @@
-CS 174A, Winter 2017
+CS 174A, Winter 2017 <br />
 
-Name: Nathan Yang
-UID: 404609327
+Name: Nathan Yang <br />
+UID: 404609327 <br />
 
